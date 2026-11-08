@@ -27,13 +27,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/methylorange/dsh-task-popup.git"
+    "url": "https://github.com/methylorange-kun/dsh-task-popup.git"
   },
-  "homepage": "https://github.com/methylorange/dsh-task-popup#readme",
+  "homepage": "https://github.com/methylorange-kun/dsh-task-popup#readme",
   "bugs": {
-    "url": "https://github.com/methylorange/dsh-task-popup/issues"
+    "url": "https://github.com/methylorange-kun/dsh-task-popup/issues"
   },
-  "author": "methylorange",
+  "author": "methylorange-kun",
   "license": "MIT",
   "publishConfig": {
     "access": "public"

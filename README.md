@@ -1,6 +1,6 @@
 # dsh-task-popup
 
-[![ci](https://github.com/methylorange/dsh-task-popup/actions/workflows/ci.yml/badge.svg)](https://github.com/methylorange/dsh-task-popup/actions/workflows/ci.yml)
+[![ci](https://github.com/methylorange-kun/dsh-task-popup/actions/workflows/ci.yml/badge.svg)](https://github.com/methylorange-kun/dsh-task-popup/actions/workflows/ci.yml)
 
 在 DeepSeek Harness 的一轮任务结束（Session 从运行中变为空闲），或者出现**待确认操作**（审批、提问、计划评审）时，弹出一个提示卡片；如果运行环境允许，再补一条系统通知。
 
@@ -31,7 +31,7 @@
 ### 方式一：从 GitHub 克隆（普通 profile）
 
 ```powershell
-git clone https://github.com/methylorange/dsh-task-popup
+git clone https://github.com/methylorange-kun/dsh-task-popup
 dsh plugin --profile web add file:C:/path/to/dsh-task-popup
 ```
 
